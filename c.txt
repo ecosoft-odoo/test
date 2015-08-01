@@ -2,6 +2,7 @@ xt
 
 aa
 bb
+<<<<<<< Upstream, based on branch 'master' of https://kittiu:Eccoe2308@github.com/ecosoft-odoo/test.git
 cc  
 
 sss
@@ -9,3 +10,8 @@ sss
 asdf
 
 asdf 
+=======
+cc
+
+adsfasdf
+>>>>>>> e99eaca adsf
